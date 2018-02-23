@@ -1,7 +1,7 @@
 # RMT4RFM
 *A Random Matrix Approach for Random Feature Maps*
 
-This page contains a simple demo using [Python 3](https://www.python.org/) of the theoretical results  in the following paper:
+This page contains a simple demo using [Python 3](https://www.python.org/) of the theoretical results in the following paper:
 
  [On the Spectrum of Random Features Maps of High Dimensional Data](https://zhenyu-liao.github.io/pdf/rfm_icml2018.pdf)
  
@@ -23,7 +23,7 @@ To be able to test this code requires the following:
 * [Matplotlib](http://matplotlib.org/) for visulazation
 * [Scikit-learn](http://scikit-learn.org/stable/) for MNIST dataset
  
-We strongly recommend you to use [Jupyter nootbook](http://jupyter.org/) to have a real-time interaction within your web browsers: [here](http://nbviewer.jupyter.org/github/Zhenyu-LIAO/RMT4RFM/blob/master/RMT4RFM.ipynb).
+We strongly recommend you to use [Jupyter nootbook](http://jupyter.org/) to have a direct illustration within your web browsers: [here](http://nbviewer.jupyter.org/github/Zhenyu-LIAO/RMT4RFM/blob/master/RMT4RFM.ipynb).
  
 ## Contact information
 * Zhenyu LIAO
